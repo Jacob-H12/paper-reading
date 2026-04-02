@@ -12,6 +12,7 @@
 | [P300-BCI-Attention](EEG-Closed-Loop-Game/[Front%20Hum%20Neurosci%202019]%20P300-BCI-Attention) | Front Hum Neurosci 2019 | P300自适应难度神经反馈, 30min训练→注意力RT显著缩短 |
 | [BCI-CIPN-RCT](EEG-Closed-Loop-Game/[Cancer%202024]%20BCI-CIPN-RCT) | Cancer 2024 | 双盲RCT, 20次BCI游戏训练, 效应量1.07, 1月后持续改善 |
 | [Closed-Loop-Memory](EEG-Closed-Loop-Game/[J%20Neurosci%20Methods%202024]%20Closed-Loop-Memory) | J Neurosci Methods 2024 | 实时EEG解码记忆状态, 闭环优化记忆编码时机 |
+| [Co-Adaptive-Neural-Interface](EEG-Closed-Loop-Game/[NMI%202026]%20Co-Adaptive-Neural-Interface) | Nature Mach Intell 2026 | 控制论+博弈论建模人-机共适应, 14人EMG接口, 预测并塑造用户行为 |
 
 ---
 
@@ -25,7 +26,8 @@ paper-reading/
 │   ├── [J Healthc Eng 2021] IRF-Attention-NFb/
 │   ├── [Front Hum Neurosci 2019] P300-BCI-Attention/
 │   ├── [Cancer 2024] BCI-CIPN-RCT/
-│   └── [J Neurosci Methods 2024] Closed-Loop-Memory/
+│   ├── [J Neurosci Methods 2024] Closed-Loop-Memory/
+│   └── [NMI 2026] Co-Adaptive-Neural-Interface/
 │
 └── README.md                          # 本文件
 ```
@@ -47,4 +49,4 @@ paper-reading/
 
 ---
 
-由 Jacob 协助整理 📚 | 更新: 2026-03-31 | 共 6 篇论文
+由 Jacob 协助整理 📚 | 更新: 2026-04-02 | 共 7 篇论文
